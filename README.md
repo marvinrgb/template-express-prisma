@@ -1,1 +1,2 @@
-# template-express-prisma
+# env
+DATABASE_URL="file:./dev.db"
